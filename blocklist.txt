@@ -321,3 +321,8 @@ websking.com
 spotilocal.com
 wavo.me
 *outbrain.json*
+optnmstr.com
+api.pinterest.com/v1/urls/count.json
+bufferapp.com
+www.yummly.com/services/yum-count
+easy-social-share-buttons3/public/get-noapi-counts.php
