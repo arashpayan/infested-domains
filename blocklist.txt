@@ -302,7 +302,6 @@ ads.rubiconproject.com
 connect.facebook.net
 synapsys.us
 technoratimedia.com
-secure.footprint.net
 ads.twitter.com
 tribdss.com
 tribpubads.com
