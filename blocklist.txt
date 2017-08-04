@@ -330,3 +330,5 @@ flexytalk.net
 quickdomainfwd.com
 com.com
 download.cnet.com
+youtube.com/pagead/
+youtube.com/get_midroll_info
