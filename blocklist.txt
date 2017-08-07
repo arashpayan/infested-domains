@@ -337,3 +337,6 @@ adtechium.com
 revcontent.com
 theatlantic.com/api/user_country
 cdn.theatlantic.com/assets/static/b/theatlantic/js/vendors.min.3011baf0eca8.js
+/HitTracker*
+exoclick.com
+exosrv.com
