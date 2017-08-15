@@ -361,3 +361,4 @@ registerdisney.go.com
 omniture.js
 bdc-chartbeat
 /adframestats
+saymedia.com
