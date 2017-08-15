@@ -363,7 +363,7 @@ bdc-chartbeat
 /adframestats
 saymedia.com
 web-scripts.vice.com/*/ads.js
-advice-ads-cdn.vice.com.
+advice-ads-cdn.vice.com
 platform.instagram.com/*/embeds.js
 __comscore
 intermarkets.net
