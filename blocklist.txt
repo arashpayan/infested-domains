@@ -366,3 +366,6 @@ web-scripts.vice.com/*/ads.js
 advice-ads-cdn.vice.com.
 platform.instagram.com/*/embeds.js
 __comscore
+intermarkets.net
+eproof.com
+quantcast.com
