@@ -369,3 +369,8 @@ __comscore
 intermarkets.net
 eproof.com
 quantcast.com
+||scorecardresearch.com^$important
+||quantserve.com^$important
+||pico.tools^$important
+||google-analytics.com^$important,third-party
+||googleadservices.com^$important
