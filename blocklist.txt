@@ -378,3 +378,4 @@ quantcast.com
 ||myfinance.com^$important
 ||spot.im^$important
 ||smartasset.com^$important
+||consensu.org^$important
