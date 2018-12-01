@@ -379,3 +379,5 @@ quantcast.com
 ||spot.im^$important
 ||smartasset.com^$important
 ||consensu.org^$important
+||evidon.com^$important
+||api.bibblio.org^$important
