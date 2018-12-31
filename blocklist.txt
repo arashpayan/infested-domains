@@ -381,3 +381,4 @@ quantcast.com
 ||consensu.org^$important
 ||evidon.com^$important
 ||api.bibblio.org^$important
+||graph.facebook.com^$important
