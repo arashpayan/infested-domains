@@ -383,3 +383,4 @@ __comscore^$important
 ||api.bibblio.org^$important
 ||graph.facebook.com^$important
 ||adsafeprotected.com^$important
+||integralads.com^$important
