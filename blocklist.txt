@@ -384,3 +384,4 @@ __comscore^$important
 ||adsafeprotected.com^$important
 ||integralads.com^$important
 ||ads-twitter.com^$important
+||ensighten.com^$important
