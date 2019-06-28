@@ -385,3 +385,6 @@ __comscore^$important
 ||ads-twitter.com^$important
 ||ensighten.com^$important
 ||boomerang.dell.com^$important
+||actionbutton.co^$important
+comscore-min.js^$important
+ads.us.js^$important
