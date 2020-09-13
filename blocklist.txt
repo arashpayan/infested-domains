@@ -395,3 +395,10 @@ ads.us.js^$important
 ||hotjar.com^$important
 ||typekit.net^$important
 ||typekit.com^$important
+||analytics-engine.com^$important
+||cohesionapps.com^$important
+||drift.com^$important
+||driftt.com^$important
+||hsforms.com^$important
+||hsforms.net^$important
+||hubspot-forms-static-embed.s3.amazonaws.com^$important
