@@ -305,7 +305,6 @@ tribpubads.com
 yahoo.com/px.gif
 liadm.com
 js.washingtonpost.com/wp-stat/comscore
-ogs.google.com
 gstatic.com/news-static/img/cleardot.gif
 google.com/pagead/drt/dn/
 deployads.com
