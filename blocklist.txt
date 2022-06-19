@@ -290,7 +290,6 @@ stacksocial.com
 platform.twitter.com
 disqus.com
 disquscdn.com
-login.live.com
 knowledgerumors.com
 mvnqwmnvnal.pw
 intelleral.com
