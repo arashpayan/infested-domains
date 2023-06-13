@@ -45,7 +45,7 @@ liverail.com^$important
 lrcdn.net^$important
 webtrends.com^$important
 vortex.data.microsoft.com^$important
-c.microsoft.com^$important
+||c.microsoft.com^$important
 go-mpulse.net^$important
 i.s-microsoft.com^$important
 btttag.com^$important
